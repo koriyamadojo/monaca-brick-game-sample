@@ -1,6 +1,6 @@
 var ncmbController = {
-    APPLICATION_KEY: "7ecaf6c73162f4f9ec439348fbbdd331e093da52d1039d1d6ef63b8c67d8abbf",
-    CLIENT_KEY: "09b19b5667522313b9e01db2fefabdab7ac6aedb811c23f91c228b5233fe48de",
+    APPLICATION_KEY: "YOUR_APPLICATION_KEY",
+    CLIENT_KEY: "YOUR_CLIENT_KEY",
 
     ncmb: null,
     currentUser: null,
